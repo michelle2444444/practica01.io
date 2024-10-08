@@ -1,1 +1,3 @@
-# practica01.io![READ me](https://github.com/user-attachments/assets/ebcda2ce-a5df-4c98-a8d3-1e907b74d2ea)
+# practica01.io!
+
+![READ me](https://github.com/user-attachments/assets/04c811da-8aa7-4a2d-b52e-aaab25d3ecef)
